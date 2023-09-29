@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm an Information Technology student studying at Technical University of Mombasa.";
+  "I'm an Information Technology student studying at Technical University of Mombasa. I believe in a collaborative approach to development, working closely with clients to understand their vision and goals. By maintaining open communication and providing regular updates, I ensure that the project is always aligned with the client's expectations.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -49,7 +49,8 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my  experience I continually look for new and better ways to make tech accessible by all.";
+
+  "I a passionate and experienced Fullstack Web Developer with a knack for creating dynamic and efficient web applications. With a strong foundation in both front-end and back-end technologies, I take pride in crafting seamless, user-friendly experiences.";
 
 const About = () => {
   return (
